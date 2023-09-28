@@ -13,5 +13,5 @@ PCのキーボードの本来の使い道は文字や記号の入力、ショー
 
 ## プログラムを実行するまでの手順
 1. Processingをダウンロード → https://processing.org/
-2. レポジトリのクローン後、My11thProcessing.pdeをProcessingで開く
+2. レポジトリのクローン後、cards_slider.pdeをProcessingで開く
 3. 左上の実行ボタンで実行
