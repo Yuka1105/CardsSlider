@@ -3,7 +3,7 @@
 ## 詳しくはこちらのリンクへ
 デモ動画：https://youtu.be/anN37jAEyBs
 
-ポートフォリオ：https://drive.google.com/file/d/1VVpZ2tZ0PsZN9uakEsjICSmzWkwSvHdM/view
+ポートフォリオ：準備中
 
 ## コンセプト
 PCのキーボードの本来の使い道は文字や記号の入力、ショートカットである。
